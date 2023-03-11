@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[The Guild Blog]]></title>
+    <description><![CDATA[The Guild Blog]]></description>
+    <link>https://the-guild.dev</link>
+    <generator>RSS for Node</generator>
+    <lastBuildDate>Sun, 05 Mar 2023 14:26:50 GMT</lastBuildDate>
+    <atom:link href="https://the-guild.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Announcing GraphQL Network Inspector]]></title>
+      <description><![CDATA[A better way to debug network traffic with GraphQL]]></description>
+      <link>https://the-guild.dev/blog/announcing-graphql-network-inspector</link>
+      <guid isPermaLink="false">/blog/announcing-graphql-network-inspector</guid>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Cursor Pagination with PostgreSQL]]></title>
+      <description><![CDATA[An python based approach for understanding and implementing GraphQL Cursor Pagination.]]></description>
+      <link>https://the-guild.dev/blog/graphql-cursor-pagination-with-postgresql</link>
+      <guid isPermaLink="false">/blog/graphql-cursor-pagination-with-postgresql</guid>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Hive - Improvements in Schema Registry]]></title>
+      <description><![CDATA[GraphQL Hive announces new and improved schema registry model with improved workflow and user experience. Access to old model will end soon, switch recommended. New model has improved defaults and the ability to delete a schema.]]></description>
+      <link>https://the-guild.dev/blog/graphql-hive-improvements-in-schema-registry</link>
+      <guid isPermaLink="false">/blog/graphql-hive-improvements-in-schema-registry</guid>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[On-Demand Shared GraphQL Subscriptions with RxJS]]></title>
+      <description><![CDATA[Trigger on-demand expensive subscriptions and share results between multiple subscribers]]></description>
+      <link>https://the-guild.dev/blog/on-demand-shared-graphql-subscriptions-with-rxjs</link>
+      <guid isPermaLink="false">/blog/on-demand-shared-graphql-subscriptions-with-rxjs</guid>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Scalable APIs with GraphQL Server Codegen Preset]]></title>
+      <description><![CDATA[Structuring GraphQL server the right way enables many teams to work in harmony while minimising runtime risks.]]></description>
+      <link>https://the-guild.dev/blog/scalable-apis-with-graphql-server-codegen-preset</link>
+      <guid isPermaLink="false">/blog/scalable-apis-with-graphql-server-codegen-preset</guid>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Build realtime GraphQL backends with Grafbase]]></title>
+      <description><![CDATA[Build collaborative, multiplayer apps faster and easier than ever with GraphQL Live Queries using Grafbase.]]></description>
+      <link>https://the-guild.dev/blog/build-realtime-graphql-backends-with-grafbase</link>
+      <guid isPermaLink="false">/blog/build-realtime-graphql-backends-with-grafbase</guid>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL-ESLint v3.14 - What's New?]]></title>
+      <description><![CDATA[The best GraphQL linter becomes even better! Check out what we added in the new version.]]></description>
+      <link>https://the-guild.dev/blog/graphql-eslint-3.14</link>
+      <guid isPermaLink="false">/blog/graphql-eslint-3.14</guid>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQXL - The Missing GraphQL Language Extension?]]></title>
+      <description><![CDATA[GraphQXL, a new language for building big and scalable GraphQL server-side schemas]]></description>
+      <link>https://the-guild.dev/blog/graphqxl-language</link>
+      <guid isPermaLink="false">/blog/graphqxl-language</guid>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Yoga NestJS integration now supports NestJS v9 and Yoga v3]]></title>
+      <description><![CDATA[A new version of @graphql-yoga/nestjs with NestJS v9 support is out!]]></description>
+      <link>https://the-guild.dev/blog/graphql-yoga-nestjs-v9</link>
+      <guid isPermaLink="false">/blog/graphql-yoga-nestjs-v9</guid>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Announcing GraphQL Yoga v3]]></title>
+      <description><![CDATA[The new version of GraphQL Yoga is out! Learn what has improved and what is new!]]></description>
+      <link>https://the-guild.dev/blog/graphql-yoga-v3</link>
+      <guid isPermaLink="false">/blog/graphql-yoga-v3</guid>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Announcing free SSO (Single Sign On) for GraphQL Hive]]></title>
+      <description><![CDATA[Link your GraphQL Hive Organization to your OAuth OIDC provider of choice.]]></description>
+      <link>https://the-guild.dev/blog/announcing-free-single-sign-on-for-graphql-hive</link>
+      <guid isPermaLink="false">/blog/announcing-free-single-sign-on-for-graphql-hive</guid>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Getting the Best of TypeScript and GraphQL: Union Types]]></title>
+      <description><![CDATA[The combination of TypeScript and GraphQL can be very powerful. Both TypeScript and GraphQL support the concept of discriminated unions.]]></description>
+      <link>https://the-guild.dev/blog/typescript-graphql-unions-types</link>
+      <guid isPermaLink="false">/blog/typescript-graphql-unions-types</guid>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Building Slack Bot with Cloudflare Workers]]></title>
+      <description><![CDATA[GitHub Slack bot reminder in Cloudflare Workers]]></description>
+      <link>https://the-guild.dev/blog/slack-bot-with-cloudflare</link>
+      <guid isPermaLink="false">/blog/slack-bot-with-cloudflare</guid>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Announcing self-hosted GraphQL Hive]]></title>
+      <description><![CDATA[Host your own GraphQL Hive instance.]]></description>
+      <link>https://the-guild.dev/blog/announcing-self-hosted-graphql-hive</link>
+      <guid isPermaLink="false">/blog/announcing-self-hosted-graphql-hive</guid>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Improved Security with GraphQL Armor support for Yoga Server 2]]></title>
+      <description><![CDATA[Bringing security by default to GraphQL and Yoga Server.]]></description>
+      <link>https://the-guild.dev/blog/improved-security-with-graphql-armor-support-for-yoga-server-2</link>
+      <guid isPermaLink="false">/blog/improved-security-with-graphql-armor-support-for-yoga-server-2</guid>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[JavaScript runs everywhere, so should your servers - here is how]]></title>
+      <description><![CDATA[A new way to make any Javascript server platform-agnostic.]]></description>
+      <link>https://the-guild.dev/blog/fetch-for-servers</link>
+      <guid isPermaLink="false">/blog/fetch-for-servers</guid>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Unleash the power of Fragments with GraphQL Codegen]]></title>
+      <description><![CDATA[The most important parts of Relay are the concepts of building and scaling applications, let's show how you can use these patterns in your existing project, no matter what client library you are currently using.]]></description>
+      <link>https://the-guild.dev/blog/unleash-the-power-of-fragments-with-graphql-codegen</link>
+      <guid isPermaLink="false">/blog/unleash-the-power-of-fragments-with-graphql-codegen</guid>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Bringing the best GraphQL experience to Svelte]]></title>
+      <description><![CDATA[It's time to unveil a massive effort by the KitQL and Houdini maintainers to join forces!]]></description>
+      <link>https://the-guild.dev/blog/houdini-and-kitql</link>
+      <guid isPermaLink="false">/blog/houdini-and-kitql</guid>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Building GraphQL Servers in 2022]]></title>
+      <description><![CDATA[In this talk we'll learn about the tools needed to build your own GraphQL server from scratch using GraphQL Yoga.]]></description>
+      <link>https://the-guild.dev/blog/building-graphql-servers-in-2022</link>
+      <guid isPermaLink="false">/blog/building-graphql-servers-in-2022</guid>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Announcing GraphQL Hive, the complete GraphQL API manager]]></title>
+      <description><![CDATA[We are incredibly excited to share with you today the public launch of GraphQL Hive!]]></description>
+      <link>https://the-guild.dev/blog/announcing-graphql-hive-release</link>
+      <guid isPermaLink="false">/blog/announcing-graphql-hive-release</guid>
+      <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Announcing GraphQL Yoga 2.0!]]></title>
+      <description><![CDATA[Fully-featured GraphQL Server with focus on easy setup, performance and great developer experience]]></description>
+      <link>https://the-guild.dev/blog/announcing-graphql-yoga-v2</link>
+      <guid isPermaLink="false">/blog/announcing-graphql-yoga-v2</guid>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL error handling to the max]]></title>
+      <description><![CDATA[Handle unsafe APIs in a typesafe way with Typescript and Functional Programming.]]></description>
+      <link>https://the-guild.dev/blog/graphql-error-handling-with-fp</link>
+      <guid isPermaLink="false">/blog/graphql-error-handling-with-fp</guid>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How not to learn GraphQL]]></title>
+      <description><![CDATA[A guide to avoid common learning biases and misconceptions around GraphQL.]]></description>
+      <link>https://the-guild.dev/blog/how-not-to-learn-graphql</link>
+      <guid isPermaLink="false">/blog/how-not-to-learn-graphql</guid>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[The Anatomy of a GraphQL Request]]></title>
+      <description><![CDATA[Let's go back to the basics and break down a GraphQL request.]]></description>
+      <link>https://the-guild.dev/blog/the-anatomy-of-a-graphql-request</link>
+      <guid isPermaLink="false">/blog/the-anatomy-of-a-graphql-request</guid>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Caching data with DataLoader]]></title>
+      <description><![CDATA[How to use DataLoader to cache data]]></description>
+      <link>https://the-guild.dev/blog/caching-data-with-dataloader</link>
+      <guid isPermaLink="false">/blog/caching-data-with-dataloader</guid>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Authentication with Envelop and Auth0]]></title>
+      <description><![CDATA[Learn how to quickly add authentication to you GraphQL Envelop setup with Auth0.]]></description>
+      <link>https://the-guild.dev/blog/graphql-authentication-with-envelop-and-auth0</link>
+      <guid isPermaLink="false">/blog/graphql-authentication-with-envelop-and-auth0</guid>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL AuthZ - GraphQL Authorization layer]]></title>
+      <description><![CDATA[Flexible modern way of adding an authorization layer on top of your existing GraphQL backend systems.]]></description>
+      <link>https://the-guild.dev/blog/graphql-authz</link>
+      <guid isPermaLink="false">/blog/graphql-authz</guid>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Code Generator with TypeScript and Prisma models]]></title>
+      <description><![CDATA[How to use Prisma models with GraphQL Code Generator]]></description>
+      <link>https://the-guild.dev/blog/graphql-code-generator-and-prisma</link>
+      <guid isPermaLink="false">/blog/graphql-code-generator-and-prisma</guid>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL over SSE (Server-Sent Events)]]></title>
+      <description><![CDATA[Zero-dependency, HTTP/1 safe, simple, GraphQL over Server-Sent Events Protocol server and client.]]></description>
+      <link>https://the-guild.dev/blog/graphql-over-sse</link>
+      <guid isPermaLink="false">/blog/graphql-over-sse</guid>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Response Caching with Envelop]]></title>
+      <description><![CDATA[Caching GraphQL endpoints can be tricky. Let's take a look at the theory behind making it possible and learn how to do it with Envelop.]]></description>
+      <link>https://the-guild.dev/blog/graphql-response-caching-with-envelop</link>
+      <guid isPermaLink="false">/blog/graphql-response-caching-with-envelop</guid>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[What does it take to support Node.js ESM?]]></title>
+      <description><![CDATA[I have worked on all The Guild's libraries and graphql-js to support ESM. Here is how you can do it too.]]></description>
+      <link>https://the-guild.dev/blog/support-nodejs-esm</link>
+      <guid isPermaLink="false">/blog/support-nodejs-esm</guid>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[What's new in GraphQL-Codegen v2?]]></title>
+      <description><![CDATA[Human-readable types, improved infrastructure, a new plugin for TypeScript and more!]]></description>
+      <link>https://the-guild.dev/blog/whats-new-in-graphql-codegen-v2</link>
+      <guid isPermaLink="false">/blog/whats-new-in-graphql-codegen-v2</guid>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SwiftGraphQL - A GraphQL client for Swift lovers.]]></title>
+      <description><![CDATA[SwiftGraphQL lets you use all the power Swift gives you to query your data. It feels like magic.]]></description>
+      <link>https://the-guild.dev/blog/swift-graphql</link>
+      <guid isPermaLink="false">/blog/swift-graphql</guid>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Tools V8 - Stitch Federation Services]]></title>
+      <description><![CDATA[Faster and more flexible Schema Stitching!]]></description>
+      <link>https://the-guild.dev/blog/graphql-tools-v8</link>
+      <guid isPermaLink="false">/blog/graphql-tools-v8</guid>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Introducing Envelop - The GraphQL Plugin System]]></title>
+      <description><![CDATA[A new tool by The Guild: A powerful new way for creating fast, modern and secure GraphQL servers.]]></description>
+      <link>https://the-guild.dev/blog/introducing-envelop</link>
+      <guid isPermaLink="false">/blog/introducing-envelop</guid>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Collecting GraphQL Live Query Resource Identifier with GraphQL Tools]]></title>
+      <description><![CDATA[GraphQL Tools can help to solve a variety of problems. Lean how it can be used for live queries.]]></description>
+      <link>https://the-guild.dev/blog/collecting-graphql-live-query-resource-identifier-with-graphql-tools</link>
+      <guid isPermaLink="false">/blog/collecting-graphql-live-query-resource-identifier-with-graphql-tools</guid>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL with TypeScript done right]]></title>
+      <description><![CDATA[How to get the most of React application types with GraphQL Code Generator.]]></description>
+      <link>https://the-guild.dev/blog/graphql-with-typescript-done-right</link>
+      <guid isPermaLink="false">/blog/graphql-with-typescript-done-right</guid>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Easy Open Source - Orchestrating the Open Source Contribution Workflow]]></title>
+      <description><![CDATA[Sharing our journey of making it easier for people to participate in Open Source.]]></description>
+      <link>https://the-guild.dev/blog/oss-contributor-workflow</link>
+      <guid isPermaLink="false">/blog/oss-contributor-workflow</guid>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Subscriptions and Live Queries - Real Time with GraphQL]]></title>
+      <description><![CDATA[GraphQL subscriptions are used by many. Live Query adoption, however, has not advanced that much. Let's take a look at both methods for achieving real-time communication with GraphQL.]]></description>
+      <link>https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql</link>
+      <guid isPermaLink="false">/blog/subscriptions-and-live-queries-real-time-with-graphql</guid>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Hive - Manage Your GraphQL API Workflow]]></title>
+      <description><![CDATA[Announcing the beta testing program of GraphQL Hive - schema registry for any GraphQL workflow.]]></description>
+      <link>https://the-guild.dev/blog/graphql-hive-preview</link>
+      <guid isPermaLink="false">/blog/graphql-hive-preview</guid>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[A New Year for GraphQL Schema Stitching]]></title>
+      <description><![CDATA[2021 is the year to give Schema Stitching a fresh look after its recent renovation]]></description>
+      <link>https://the-guild.dev/blog/a-new-year-for-schema-stitching</link>
+      <guid isPermaLink="false">/blog/a-new-year-for-schema-stitching</guid>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[The New GraphQL Modules]]></title>
+      <description><![CDATA[GraphQL Modules showed up on NPM almost 3 years ago, but now we decided to rewrite it from scratch.]]></description>
+      <link>https://the-guild.dev/blog/graphql-modules-v1</link>
+      <guid isPermaLink="false">/blog/graphql-modules-v1</guid>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Add reactivity to an existing source using GraphQL Mesh]]></title>
+      <description><![CDATA[How To extend an existing endpoint with subscriptions to bring reactivity to your application.]]></description>
+      <link>https://the-guild.dev/blog/add-reactivity-to-an-existing-source</link>
+      <guid isPermaLink="false">/blog/add-reactivity-to-an-existing-source</guid>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL - The Workflow]]></title>
+      <description><![CDATA[The Workflow when taking GraphQL from development to production.]]></description>
+      <link>https://the-guild.dev/blog/graphql-deep-dive-6</link>
+      <guid isPermaLink="false">/blog/graphql-deep-dive-6</guid>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL - The Stack -]]></title>
+      <description><![CDATA[The GraphQL Stack - Part 3.]]></description>
+      <link>https://the-guild.dev/blog/graphql-deep-dive-5</link>
+      <guid isPermaLink="false">/blog/graphql-deep-dive-5</guid>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL - The Stack -]]></title>
+      <description><![CDATA[The GraphQL Stack - Part 2.]]></description>
+      <link>https://the-guild.dev/blog/graphql-deep-dive-4</link>
+      <guid isPermaLink="false">/blog/graphql-deep-dive-4</guid>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL - The Stack -]]></title>
+      <description><![CDATA[The GraphQL Stack - Part 1.]]></description>
+      <link>https://the-guild.dev/blog/graphql-deep-dive-3</link>
+      <guid isPermaLink="false">/blog/graphql-deep-dive-3</guid>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL - Use case and Architecture]]></title>
+      <description><![CDATA[Architecting for GraphQL and its ecosystem.]]></description>
+      <link>https://the-guild.dev/blog/graphql-deep-dive-2</link>
+      <guid isPermaLink="false">/blog/graphql-deep-dive-2</guid>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL - Diving Deep]]></title>
+      <description><![CDATA[Answering all the questions you may have about GraphQL and its ecosystem.]]></description>
+      <link>https://the-guild.dev/blog/graphql-deep-dive-1</link>
+      <guid isPermaLink="false">/blog/graphql-deep-dive-1</guid>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[What's new with Apollo Client v3 and GraphQL Codegen]]></title>
+      <description><![CDATA[All the new features GraphQL Codegen adds to your type-system with the new Apollo Client 3.]]></description>
+      <link>https://the-guild.dev/blog/graphql-codegen-and-apollo-client-3</link>
+      <guid isPermaLink="false">/blog/graphql-codegen-and-apollo-client-3</guid>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[graphql-let - A Webpack loader for GraphQL Code Generator]]></title>
+      <description><![CDATA[graphql-let is a webpack loader of GraphQL code generator.]]></description>
+      <link>https://the-guild.dev/blog/graphql-let</link>
+      <guid isPermaLink="false">/blog/graphql-let</guid>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Introducing: GraphQL Codegen plugin for TypeScript & SWR!]]></title>
+      <description><![CDATA[Working with GraphQL, TypeScript and SWR is now much simpler!]]></description>
+      <link>https://the-guild.dev/blog/graphql-codegen-plugin-typescript-swr</link>
+      <guid isPermaLink="false">/blog/graphql-codegen-plugin-typescript-swr</guid>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Tools v7 delivers the next generation GraphQL API Gateway]]></title>
+      <description><![CDATA[GraphQL Tools v7]]></description>
+      <link>https://the-guild.dev/blog/graphql-tools-v7</link>
+      <guid isPermaLink="false">/blog/graphql-tools-v7</guid>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[The Guild is joining the GraphQL Foundation]]></title>
+      <description><![CDATA[Our plans to contribute to the GraphQL Foundation.]]></description>
+      <link>https://the-guild.dev/blog/joining-graphql-foundation</link>
+      <guid isPermaLink="false">/blog/joining-graphql-foundation</guid>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[What's new in GraphQL CLI 4.1]]></title>
+      <description><![CDATA[GraphQL CLI - experience the modern way for developing full-stack GraphQL applications.]]></description>
+      <link>https://the-guild.dev/blog/whats-new-in-graphql-cli-4.1.0</link>
+      <guid isPermaLink="false">/blog/whats-new-in-graphql-cli-4.1.0</guid>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Webhooks as GraphQL Subscriptions using GraphQL Mesh]]></title>
+      <description><![CDATA[Consume your legacy webhooks and subscriptions from any data source as GraphQL Subscriptions with GraphQL Mesh.]]></description>
+      <link>https://the-guild.dev/blog/graphql-mesh-subscriptions</link>
+      <guid isPermaLink="false">/blog/graphql-mesh-subscriptions</guid>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Introducing GraphQL-ESLint!]]></title>
+      <description><![CDATA[A new tool by The Guild, for making your GraphQL schema and GraphQL operations more standard and robust!]]></description>
+      <link>https://the-guild.dev/blog/introducing-graphql-eslint</link>
+      <guid isPermaLink="false">/blog/introducing-graphql-eslint</guid>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL over WebSockets]]></title>
+      <description><![CDATA[Coherent, zero-dependency, lazy, simple, server and client implementation of the new, security first, GraphQL over WebSocket Protocol.]]></description>
+      <link>https://the-guild.dev/blog/graphql-over-websockets</link>
+      <guid isPermaLink="false">/blog/graphql-over-websockets</guid>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[TypedDocumentNode: the next generation of GraphQL and TypeScript]]></title>
+      <description><![CDATA[Using GraphQL and Typescript on the client just became a lot easier!]]></description>
+      <link>https://the-guild.dev/blog/typed-document-node</link>
+      <guid isPermaLink="false">/blog/typed-document-node</guid>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Migrating from Schemaless REST API to GraphQL without writing any code]]></title>
+      <description><![CDATA[Migrating to GraphQL from a REST API has never been easier. With tools like GraphQL Mesh you can do it automatically, without writing code and even if you don't have any schema for your existing REST API sources.]]></description>
+      <link>https://the-guild.dev/blog/migrating-from-rest</link>
+      <guid isPermaLink="false">/blog/migrating-from-rest</guid>
+      <pubDate>Sun, 31 May 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Tools - next generation schema stitching and new leadership]]></title>
+      <description><![CDATA[GraphQL Tools v6 with more tools, improved schema stitching and bug fixes.]]></description>
+      <link>https://the-guild.dev/blog/graphql-tools-v6</link>
+      <guid isPermaLink="false">/blog/graphql-tools-v6</guid>
+      <pubDate>Thu, 21 May 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Integrating GraphQL Code Generator in your frontend applications]]></title>
+      <description><![CDATA[The GraphQL codegen library can generate code for multiple purposes. Make sure you get the most out of it.]]></description>
+      <link>https://the-guild.dev/blog/graphql-codegen-best-practices</link>
+      <guid isPermaLink="false">/blog/graphql-codegen-best-practices</guid>
+      <pubDate>Wed, 20 May 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Better Type Safety for your GraphQL resolvers with GraphQL Codegen]]></title>
+      <description><![CDATA[Type-check your resolvers' implementation in order to find issues in build-time. Simply integrate with your existing TypeScript data models and context types.]]></description>
+      <link>https://the-guild.dev/blog/better-type-safety-for-resolvers-with-graphql-codegen</link>
+      <guid isPermaLink="false">/blog/better-type-safety-for-resolvers-with-graphql-codegen</guid>
+      <pubDate>Sun, 17 May 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[New GraphQL Inspector and upcoming features]]></title>
+      <description><![CDATA[See what's new and shape the future of GraphQL Inspector together! It's entirely open-sourced!]]></description>
+      <link>https://the-guild.dev/blog/new-graphql-inspector</link>
+      <guid isPermaLink="false">/blog/new-graphql-inspector</guid>
+      <pubDate>Tue, 05 May 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Schema Change Notifications in GraphQL Inspector]]></title>
+      <description><![CDATA[Stay up to date with changes in your GraphQL Schema. Receive notifications on Slack, Discord or even via WebHooks.]]></description>
+      <link>https://the-guild.dev/blog/schema-change-notifications</link>
+      <guid isPermaLink="false">/blog/schema-change-notifications</guid>
+      <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Validate GraphQL Schema - Continuous Integration & Delivery Pipeline]]></title>
+      <description><![CDATA[Detect breaking changes and identify possible issues in GraphQL API with GraphQL Inspector]]></description>
+      <link>https://the-guild.dev/blog/ci-ci-graphql-inspector</link>
+      <guid isPermaLink="false">/blog/ci-ci-graphql-inspector</guid>
+      <pubDate>Sun, 03 May 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Multiple environments and endpoints in GraphQL Inspector]]></title>
+      <description><![CDATA[Use different variants of GraphQL schema.  Live and running GraphQL API as the source of truth of a schema.]]></description>
+      <link>https://the-guild.dev/blog/multiple-environments-endpoints-graphql-inspector</link>
+      <guid isPermaLink="false">/blog/multiple-environments-endpoints-graphql-inspector</guid>
+      <pubDate>Sat, 02 May 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Enable Remote Control in GraphQL Inspector]]></title>
+      <description><![CDATA[Intercept schema changes via HTTP and decide which changes are acceptable which are not and all of this through a serverless function.]]></description>
+      <link>https://the-guild.dev/blog/remote-control-graphql-inspector</link>
+      <guid isPermaLink="false">/blog/remote-control-graphql-inspector</guid>
+      <pubDate>Fri, 01 May 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Mesh - Query anything, run anywhere]]></title>
+      <description><![CDATA[We are excited to announce GraphQL Mesh.]]></description>
+      <link>https://the-guild.dev/blog/graphql-mesh</link>
+      <guid isPermaLink="false">/blog/graphql-mesh</guid>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to run React E2E tests purely with hooks]]></title>
+      <description><![CDATA[How to run React E2E tests purely with hooks. Tested with React-Native and Firebase Test Lab.]]></description>
+      <link>https://the-guild.dev/blog/react-e2e-tests-with-hooks</link>
+      <guid isPermaLink="false">/blog/react-e2e-tests-with-hooks</guid>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL CLI is back!]]></title>
+      <description><![CDATA[Your Swiss Army Knife for the GraphQL ecosystem. Production-ready GraphQL app in seconds.]]></description>
+      <link>https://the-guild.dev/blog/graphql-cli-is-back</link>
+      <guid isPermaLink="false">/blog/graphql-cli-is-back</guid>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Config - One configuration for all your tools]]></title>
+      <description><![CDATA[One configuration for all your tools.]]></description>
+      <link>https://the-guild.dev/blog/graphql-config</link>
+      <guid isPermaLink="false">/blog/graphql-config</guid>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Scalars 1.0 is out!]]></title>
+      <description><![CDATA[More Types, Data Integrity and Strict Validations on GraphQL.]]></description>
+      <link>https://the-guild.dev/blog/graphql-scalars</link>
+      <guid isPermaLink="false">/blog/graphql-scalars</guid>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[The coolest, most underrated design pattern in React]]></title>
+      <description><![CDATA[The coolest, most underrated design pattern in React]]></description>
+      <link>https://the-guild.dev/blog/coolest-underrated-design-pattern-in-react</link>
+      <guid isPermaLink="false">/blog/coolest-underrated-design-pattern-in-react</guid>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[I wrote a customizable CSS engine in JavaScript]]></title>
+      <description><![CDATA[I wrote a customizable CSS engine in JavaScript. Custom selectors, custom rules and custom events. You determine its behavior.]]></description>
+      <link>https://the-guild.dev/blog/customizable-css-engine-in-javascript</link>
+      <guid isPermaLink="false">/blog/customizable-css-engine-in-javascript</guid>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Optimizing Apollo Operations - GraphQL Code Generator & Relay Compiler]]></title>
+      <description><![CDATA[Optimizing your Apollo Operations with GraphQL Code Generator and the Relay Compiler.]]></description>
+      <link>https://the-guild.dev/blog/graphql-codegen-relay-compiler</link>
+      <guid isPermaLink="false">/blog/graphql-codegen-relay-compiler</guid>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Injectable services in React]]></title>
+      <description><![CDATA[How they're implemented and their similarities with Angular services.]]></description>
+      <link>https://the-guild.dev/blog/injectable-services-in-react</link>
+      <guid isPermaLink="false">/blog/injectable-services-in-react</guid>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Codegen adds new Apollo-Android and Java plugins]]></title>
+      <description><![CDATA[GraphQL Codegen adds a new Apollo-Android and a new Java Backend plugins!]]></description>
+      <link>https://the-guild.dev/blog/graphql-codegen-java</link>
+      <guid isPermaLink="false">/blog/graphql-codegen-java</guid>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Authentication and Authorization in GraphQL]]></title>
+      <description><![CDATA[After a few years of working with GraphQL, as open-source developers and as infrastructure team in large enterprises, we've learned some lessons about GraphQL, and how to authenticate and authorize GraphQL API.]]></description>
+      <link>https://the-guild.dev/blog/graphql-modules-auth</link>
+      <guid isPermaLink="false">/blog/graphql-modules-auth</guid>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[The Guild is taking over maintenance of merge-graphql-schemas]]></title>
+      <description><![CDATA[The Guild is taking over maintenance of merge-graphql-schemas, so let's talk about GraphQL Schema management]]></description>
+      <link>https://the-guild.dev/blog/taking-over-merge-graphql-schemas</link>
+      <guid isPermaLink="false">/blog/taking-over-merge-graphql-schemas</guid>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Manage Circular Imports Hell in GraphQL-Modules]]></title>
+      <description><![CDATA[Manage Circular Imports Hell in GraphQL-Modules.]]></description>
+      <link>https://the-guild.dev/blog/manage-circular-imports-hell-in-graphql-modules</link>
+      <guid isPermaLink="false">/blog/manage-circular-imports-hell-in-graphql-modules</guid>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How should you pin dependencies and why?]]></title>
+      <description><![CDATA[Getting in-depth on making your application updated and safe.]]></description>
+      <link>https://the-guild.dev/blog/how-should-you-pin-dependencies-and-why</link>
+      <guid isPermaLink="false">/blog/how-should-you-pin-dependencies-and-why</guid>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Stencil-Apollo - Stencil meets GraphQL]]></title>
+      <description><![CDATA[Stencil-Apollo lets you easily use GraphQL in Web Components.]]></description>
+      <link>https://the-guild.dev/blog/graphql-stencil-apollo</link>
+      <guid isPermaLink="false">/blog/graphql-stencil-apollo</guid>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[New encapsulation method for Styled-Components with Babel]]></title>
+      <description><![CDATA[Use private class names instead of a dedicated component]]></description>
+      <link>https://the-guild.dev/blog/styled-components-encapsulation</link>
+      <guid isPermaLink="false">/blog/styled-components-encapsulation</guid>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Code Generator - Hooks support for React Apollo plugin]]></title>
+      <description><![CDATA[Use and generate React Hooks with Apollo and Typescript with the new version of GraphQL Code Generator.]]></description>
+      <link>https://the-guild.dev/blog/graphql-codegen-hooks-support-react-apollo</link>
+      <guid isPermaLink="false">/blog/graphql-codegen-hooks-support-react-apollo</guid>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[WhatsApp Clone - Angular, GraphQL, Apollo, TypeScript and PostgreSQL]]></title>
+      <description><![CDATA[An open-source full-stack example app made with Angular 7.2, TypeScript, GraphQL Subscriptions, GraphQL Code Generator, GraphQL Modules, PostgreSQL and TypeORM.]]></description>
+      <link>https://the-guild.dev/blog/whatsapp-clone-apollo-angular-graphql-typescript-and-postgresql</link>
+      <guid isPermaLink="false">/blog/whatsapp-clone-apollo-angular-graphql-typescript-and-postgresql</guid>
+      <pubDate>Mon, 25 Feb 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[WhatsApp Clone - GraphQL, Apollo, TypeScript and PostgreSQL]]></title>
+      <description><![CDATA[Fully functional WhatsApp Clone using React (Hooks+Suspense), GraphQL, Apollo, TypeScript and PostgreSQL]]></description>
+      <link>https://the-guild.dev/blog/whatsapp-clone-react-hooks-graphql-typescript-and-postgresql</link>
+      <guid isPermaLink="false">/blog/whatsapp-clone-react-hooks-graphql-typescript-and-postgresql</guid>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SOFA — The best way to REST (is GraphQL)]]></title>
+      <description><![CDATA[Ending the REST vs. GraphQL debate once and for all]]></description>
+      <link>https://the-guild.dev/blog/sofa</link>
+      <guid isPermaLink="false">/blog/sofa</guid>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Babel plugin and get a performance boost for your React components]]></title>
+      <description><![CDATA[Use this magical Babel plugin and get a performance boost for your React components.]]></description>
+      <link>https://the-guild.dev/blog/magical-babel-plugin-for-react-performance-boost</link>
+      <guid isPermaLink="false">/blog/magical-babel-plugin-for-react-performance-boost</guid>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Introducing: GraphQL Inspector]]></title>
+      <description><![CDATA[Prevent breaking changes. Find broken operations. Get Schema Coverage. Check deprecated usage and type duplicates. All as part of your CI process.]]></description>
+      <link>https://the-guild.dev/blog/introducing-graphql-inspector</link>
+      <guid isPermaLink="false">/blog/introducing-graphql-inspector</guid>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Dependency Injection in GraphQL-Modules]]></title>
+      <description><![CDATA[Why did we implement our own Dependency Injection library for GraphQL-Modules?]]></description>
+      <link>https://the-guild.dev/blog/dependency-injection-library-in-graphql-modules</link>
+      <guid isPermaLink="false">/blog/dependency-injection-library-in-graphql-modules</guid>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Scoped Providers in GraphQL-Modules]]></title>
+      <description><![CDATA[Understand how scoped providers work in GraphQL-Modules Dependency Injection.]]></description>
+      <link>https://the-guild.dev/blog/graphql-modules-scoped-providers</link>
+      <guid isPermaLink="false">/blog/graphql-modules-scoped-providers</guid>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Modular Encapsulation in Large-Scale GraphQL Projects]]></title>
+      <description><![CDATA[Why is True Modular Encapsulation So Important in Large-Scale GraphQL Projects? — GraphQL Modules is your savior!]]></description>
+      <link>https://the-guild.dev/blog/modular-encapsulation-graphql-modules</link>
+      <guid isPermaLink="false">/blog/modular-encapsulation-graphql-modules</guid>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[This is how our brain detects shapes]]></title>
+      <description><![CDATA[This is how our brain detects shapes. And so shall the computer...]]></description>
+      <link>https://the-guild.dev/blog/how-brain-detects-shapes</link>
+      <guid isPermaLink="false">/blog/how-brain-detects-shapes</guid>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL TypeScript - w/ GraphQL-Modules and GraphQL-Code-Generator]]></title>
+      <description><![CDATA[Writing a GraphQL TypeScript project w/ GraphQL-Modules and GraphQL-Code-Generator.]]></description>
+      <link>https://the-guild.dev/blog/graphql-typescript-modules-codegen</link>
+      <guid isPermaLink="false">/blog/graphql-typescript-modules-codegen</guid>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How I helped improve Angular Console]]></title>
+      <description><![CDATA[How I helped improve Angular Console. By doing GraphQL the right way.]]></description>
+      <link>https://the-guild.dev/blog/improved-angular-console</link>
+      <guid isPermaLink="false">/blog/improved-angular-console</guid>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Under the hood of React's hooks system]]></title>
+      <description><![CDATA[Looking at the implementation and getting to know it inside out.]]></description>
+      <link>https://the-guild.dev/blog/react-hooks-system</link>
+      <guid isPermaLink="false">/blog/react-hooks-system</guid>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Authentication with accounts-js & GraphQL Modules]]></title>
+      <description><![CDATA[How to implement server-side using accounts-js, GraphQL-Modules and Apollo-Server]]></description>
+      <link>https://the-guild.dev/blog/accountsjs-graphql-modules</link>
+      <guid isPermaLink="false">/blog/accountsjs-graphql-modules</guid>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Implementing a runtime version of JSX]]></title>
+      <description><![CDATA[Learning how to think like a JSX parser and building an AST]]></description>
+      <link>https://the-guild.dev/blog/runtime-jsx</link>
+      <guid isPermaLink="false">/blog/runtime-jsx</guid>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Modules  —  Feature based GraphQL Modules at scale]]></title>
+      <description><![CDATA[Feature based GraphQL Modules at scale.]]></description>
+      <link>https://the-guild.dev/blog/graphql-modules</link>
+      <guid isPermaLink="false">/blog/graphql-modules</guid>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Recursive React tree component implementation made easy]]></title>
+      <description><![CDATA[The challenges that I've faced and how I solved them.]]></description>
+      <link>https://the-guild.dev/blog/recursive-react-tree-component-implementation-made-easy</link>
+      <guid isPermaLink="false">/blog/recursive-react-tree-component-implementation-made-easy</guid>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Getting to know React DOM's event handling system inside out]]></title>
+      <description><![CDATA[Getting to know React DOM's event handling system inside out.]]></description>
+      <link>https://the-guild.dev/blog/react-dom-event-handling-system</link>
+      <guid isPermaLink="false">/blog/react-dom-event-handling-system</guid>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[This is how I build Babel plug-ins]]></title>
+      <description><![CDATA[The basics of AOT compilers and how to write Babel plug-ins.]]></description>
+      <link>https://the-guild.dev/blog/how-i-build-babel-plugins</link>
+      <guid isPermaLink="false">/blog/how-i-build-babel-plugins</guid>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Getting to know Node's child_process module]]></title>
+      <description><![CDATA[How to call git, cpp, sh, etc., from a Node.js script.]]></description>
+      <link>https://the-guild.dev/blog/nodes-child-process</link>
+      <guid isPermaLink="false">/blog/nodes-child-process</guid>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to create a React app out of a Webflow project]]></title>
+      <description><![CDATA[How to create a React app out of a Webflow project.]]></description>
+      <link>https://the-guild.dev/blog/react-app-out-of-a-webflow</link>
+      <guid isPermaLink="false">/blog/react-app-out-of-a-webflow</guid>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[git rebase (not) --interactive]]></title>
+      <description><![CDATA[How to build a Node.js script to re-write history. Pre-requisites: Familiarity with git rebase --interactive.]]></description>
+      <link>https://the-guild.dev/blog/git-rebase-not-interactive</link>
+      <guid isPermaLink="false">/blog/git-rebase-not-interactive</guid>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Apollo-Angular 1.2 - using GraphQL in your apps just got a lot easier!]]></title>
+      <description><![CDATA[Check what's new in Apollo Angular and how to get the full potential benefits of using Angular + GraphQL + TypeScript combined thanks to GraphQL-Code-Generator]]></description>
+      <link>https://the-guild.dev/blog/apollo-angular-12</link>
+      <guid isPermaLink="false">/blog/apollo-angular-12</guid>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Code Generator for Typescript React Apollo]]></title>
+      <description><![CDATA[Generate React Apollo Query, Mutation and Subscription components and hook. All completely typed by TypeScript.]]></description>
+      <link>https://the-guild.dev/blog/codegen-typescript-react-apollo</link>
+      <guid isPermaLink="false">/blog/codegen-typescript-react-apollo</guid>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL Code Generator v0.11]]></title>
+      <description><![CDATA[Generate React and Angular Apollo Components, Resolver signatures and much more!]]></description>
+      <link>https://the-guild.dev/blog/graphql-code-generator-011</link>
+      <guid isPermaLink="false">/blog/graphql-code-generator-011</guid>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Angular CLI + Meteor — No more ejecting Webpack Configuration]]></title>
+      <description><![CDATA[Angular CLI + Meteor — No more ejecting Webpack Configuration]]></description>
+      <link>https://the-guild.dev/blog/angular-cli-meteor-no-eject</link>
+      <guid isPermaLink="false">/blog/angular-cli-meteor-no-eject</guid>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[React Native and Meteor backend w/o any 3rd party library in 2018]]></title>
+      <description><![CDATA[Introduction to new features of client bundler and React Native Meteor Polyfills including OAuth and persistent login session support etc.]]></description>
+      <link>https://the-guild.dev/blog/connecting-react-native-and-meteor</link>
+      <guid isPermaLink="false">/blog/connecting-react-native-and-meteor</guid>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Meteor with Webpack — Faster compilation and better source handling]]></title>
+      <description><![CDATA[Faster compilation and better source handling.]]></description>
+      <link>https://the-guild.dev/blog/meteor-with-webpack-in-2018</link>
+      <guid isPermaLink="false">/blog/meteor-with-webpack-in-2018</guid>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Meteor Client Bundler — React Native support, handling Meteor imports]]></title>
+      <description><![CDATA[Introduction to new features of MCB. Better React Native support, handling Meteor imports etc.]]></description>
+      <link>https://the-guild.dev/blog/whats-new-on-meteor-client-bundler</link>
+      <guid isPermaLink="false">/blog/whats-new-on-meteor-client-bundler</guid>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[What's new in GraphQL Codegen 0.9.0]]></title>
+      <description><![CDATA[The GraphQL codegen library can generate any code for any language — including type definitions, data models, query builder, resolvers, ORM code, complete full stack platforms!! and any specific code for your needs.]]></description>
+      <link>https://the-guild.dev/blog/graphql-code-generator-090</link>
+      <guid isPermaLink="false">/blog/graphql-code-generator-090</guid>
+      <pubDate>Mon, 07 May 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Open source FPS with Apollo GraphQL — GeoStrike (Alpha)]]></title>
+      <description><![CDATA[A GeoReferenced Multiplayer First-Person Shooter Game.]]></description>
+      <link>https://the-guild.dev/blog/graphql-geo-strike</link>
+      <guid isPermaLink="false">/blog/graphql-geo-strike</guid>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Introducing GraphQL Code Generator]]></title>
+      <description><![CDATA[The True GraphQL-First platform.]]></description>
+      <link>https://the-guild.dev/blog/graphql-code-generator</link>
+      <guid isPermaLink="false">/blog/graphql-code-generator</guid>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[How to create a native add-on using C++]]></title>
+      <description><![CDATA[Node.js Advanced — How to create a native add-on using C++]]></description>
+      <link>https://the-guild.dev/blog/create-native-addon-using-c</link>
+      <guid isPermaLink="false">/blog/create-native-addon-using-c</guid>
+      <pubDate>Mon, 08 May 2017 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Apollo Angular Version 0.11]]></title>
+      <description><![CDATA[New name, AoT support, TypeScript improvements, and Angular 4 readiness]]></description>
+      <link>https://the-guild.dev/blog/apollo-angular-011</link>
+      <guid isPermaLink="false">/blog/apollo-angular-011</guid>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Build a WhatsApp Clone with Ionic 2, Angular 2, and Meteor]]></title>
+      <description><![CDATA[Build a WhatsApp Clone with Ionic 2, Angular 2, and Meteor]]></description>
+      <link>https://the-guild.dev/blog/whatsapp-clone-with-ionic-angular-and-meteor</link>
+      <guid isPermaLink="false">/blog/whatsapp-clone-with-ionic-angular-and-meteor</guid>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GraphQL as a best practice for modern Angular apps?]]></title>
+      <description><![CDATA[In this post, I'll make the case for why Angular needs a best practice for communicating with the server, and why GraphQL should be that best practice.]]></description>
+      <link>https://the-guild.dev/blog/graphql-as-a-best-practice-for-modern-angular-apps</link>
+      <guid isPermaLink="false">/blog/graphql-as-a-best-practice-for-modern-angular-apps</guid>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Build a WhatsApp clone with Meteor and Ionic — Meteor Platform version]]></title>
+      <description><![CDATA[Build a WhatsApp clone using Meteor, Angular, and the Ionic Framework for CSS and mobile components]]></description>
+      <link>https://the-guild.dev/blog/whatsapp-clone-with-meteor-and-ionic</link>
+      <guid isPermaLink="false">/blog/whatsapp-clone-with-meteor-and-ionic</guid>
+      <pubDate>Fri, 16 Oct 2015 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

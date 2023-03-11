@@ -1,0 +1,1 @@
+{"pageProps":{"ssg":{"articles":[{"title":"Caching data with DataLoader","authors":["giladtidhar"],"tags":["cache","data","server","graphql"],"date":"2022-01-26","description":"How to use DataLoader to cache data","image":"/blog-assets/caching-data-with-dataloader/cover.png","link":"/blog/caching-data-with-dataloader"}],"tagFilter":["cache"]}},"__N_SSG":true}
