@@ -4,7 +4,7 @@ node_modules/
 *.log
 
 dist/
-# website/out/
+website/out/
 website/.next/
 website/public/_redirects
 website/public/robots.txt
